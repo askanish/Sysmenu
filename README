@@ -1,0 +1,20 @@
+This is a hack of dmenu to display system commands on a pop-up bar.
+
+Dont know if I am violating any license issue :)
+
+Credits also goes to the developers of dmenu for the original source of this hack
+
+Enjoy
+
+
+Usage
+-----
+
+Edit the command option in 'config.h'
+
+make
+
+./sysmenu - to execute
+
+
+Anish S Kumar
